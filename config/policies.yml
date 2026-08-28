@@ -1,0 +1,11 @@
+policies:
+  - object: '/m/default_search/search/datasets'
+    actions: ['GET']
+  - object: '/m/default_search/search/datasets/*/fields'
+    actions: ['GET']
+  - object: '/m/default_search/search/jobs'
+    actions: ['POST']
+  - object: '/m/default_search/search/jobs/*/results-poll'
+    actions: ['GET']
+  - object: '/m/default_search/search/jobs/*/cancel'
+    actions: ['POST']
