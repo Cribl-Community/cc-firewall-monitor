@@ -1,5 +1,5 @@
 {
-  "name": "firewall-monitor",
+  "name": "cc-firewall-monitor",
   "private": true,
   "version": "1.0.4",
   "type": "module",
