@@ -4,7 +4,7 @@
   "version": "1.0.4",
   "type": "module",
   "description": "Real-time firewall log search and analysis for Palo Alto Networks data stored in Cribl Lake.",
-  "author": "Jeff Ecaruso - jecaruso@cribl.io",
+  "author": "Edward Caruso - ecaruso@cribl.io",
   "license": "Apache-2.0",
   "scripts": {
     "dev": "vite",
