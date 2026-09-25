@@ -1,7 +1,7 @@
 {
   "name": "cc-firewall-monitor",
   "private": true,
-  "version": "1.0.4",
+  "version": "1.0.12",
   "type": "module",
   "description": "Real-time firewall log search and analysis for Palo Alto Networks data stored in Cribl Lake.",
   "author": "Edward Caruso - ecaruso@cribl.io",
